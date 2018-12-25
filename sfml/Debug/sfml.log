@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (sfml.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  sfml.cpp
+c:\users\artem\source\repos\sfml\sfml\sfml.cpp(32): warning C4305: инициализация: усечение из "double" в "const float"
+  sfml.vcxproj -> C:\Users\Artem\source\repos\sfml\Debug\sfml(pers).exe
